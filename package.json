@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/omarabdullah107/bmi-npm-package#readme",
   "dependencies": {
-    "@omarabdullah107/convert": "^1.0.0"
+    "@omarabdullah107/convert": "^1.1.0"
   }
 }
